@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naeko-sauce&layout=compact&hide=html,css&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true" />
